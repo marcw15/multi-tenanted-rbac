@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1704835518673,
+      "tag": "0000_famous_loa",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1704923963328,
+      "tag": "0001_fixed_franklin_storm",
+      "breakpoints": false
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1704924199794,
+      "tag": "0002_chief_nekra",
+      "breakpoints": false
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1704924604868,
+      "tag": "0003_kind_absorbing_man",
+      "breakpoints": false
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1705075023999,
+      "tag": "0004_lowly_maria_hill",
+      "breakpoints": false
+    }
+  ]
+}
