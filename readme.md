@@ -8,8 +8,8 @@
 
 ## Open To-dos
 
-[ ] fix error when assigning users to roles
-[ ] Add different secure hash algorithm
+- [ ] fix error when assigning users to roles
+- [ ] Add different secure hash algorithm
 
 ## credits
 
